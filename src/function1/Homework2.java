@@ -23,7 +23,7 @@ First and only argument is an integer A.
 
 Output Format
 
-Return an integer denoting the ceil value of real number A / 200.
+Return an integer denoting the ceil value of real number A / 200. 
 
 
 
