@@ -67,4 +67,4 @@ public class Assignment3 {
 		System.out.println(solve(9));
 	}
 
-}
+} 
