@@ -12,6 +12,7 @@ public class Homework3 {
 		int sum = 0;
 		int modDiv = 0;
 		int modQueue = 0;
+		
 		for (int i = 1; i <= N; i++) {
 			int j = i;
 			sum =0;
