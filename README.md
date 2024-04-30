@@ -1,3 +1,3 @@
 # basic-programming
 
-The content will be added sortly
+The content will be added shortly..
