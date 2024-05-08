@@ -2,6 +2,7 @@ package onedarray2;
 
 import java.util.Scanner;
 
+
 /*
  * 
  * First and Last Index
